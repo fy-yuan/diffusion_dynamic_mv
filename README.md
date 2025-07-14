@@ -56,7 +56,6 @@ All experiments are implemented as Jupyter notebooks.
 ```text
 .
 ├── README.md
-├── requirements.txt
 ├── synthetic_data/
 │   ├── experiment.ipynb        # reproduce synthetic-data results
 │   ├── td3.py                  # TD3 implementation
