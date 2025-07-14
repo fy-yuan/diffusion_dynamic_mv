@@ -1,0 +1,15 @@
+cloudpickle
+ipython
+joblib
+matplotlib
+mpi4py
+numpy
+pandas
+pytest
+psutil
+scipy
+seaborn
+tensorflow
+torch
+tqdm
+cvxpy
